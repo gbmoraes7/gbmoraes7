@@ -25,6 +25,7 @@ Graduando em **Sistemas de Informação pela UFVJM** (8º período, conclusão e
 
 - ⚙️ Experiência acadêmica em soluções back-end: funcionalidades, integração com bancos de dados e persistência de informações.
 - 📊 Experiência profissional com **sistemas corporativos**, tratamento de dados, relatórios e indicadores.
+- 🛟 Experiência em **suporte técnico** ao usuário: orientação e resolução de dúvidas e problemas operacionais em sistemas corporativos.
 - 🌱 Aprofundando back-end e, aos poucos, aprendendo **front-end**.
 - 🤖 Uso **inteligência artificial como ferramenta de apoio** ao desenvolvimento, de forma crítica: para estudar, revisar ideias e depurar código, sempre entendendo e validando o que é produzido.
 
@@ -43,17 +44,12 @@ Graduando em **Sistemas de Informação pela UFVJM** (8º período, conclusão e
   <img src="https://img.shields.io/badge/POWERPOINT-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="PowerPoint">
 </p>
 
-### 🎓 Formação e certificações
+### 🎓 Formação Acadêmica
 
-<img src="assets/ufvjm.png" height="48" alt="UFVJM" />
+<img src="assets/ufvjm.png" height="64" align="left" alt="UFVJM" /> <b>Bacharelado em Sistemas de Informação</b><br> Universidade Federal dos Vales do Jequitinhonha e Mucuri (UFVJM) · 2023 – 2027 · 8º período</i> <hr>
 
-**Bacharelado em Sistemas de Informação**
-Universidade Federal dos Vales do Jequitinhonha e Mucuri (UFVJM)
-*2023 – 2027 · 8º período*
 
-<hr>
-
-**📜 Certificações e cursos**
+### 📜 Certificações e cursos
 
 - Java Completo: Programação Orientada a Objetos (54h)
 - Excel Intermediário (15h)
@@ -85,11 +81,9 @@ Universidade Federal dos Vales do Jequitinhonha e Mucuri (UFVJM)
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
+  
+<img src="assets/sebrae.png" height="50" align="left" alt="SEBRAE Minas" /> <b>**SEBRAE Minas** · Estagiário</b><br>*11/2024 – 10/2026*</i>
 
-<img src="assets/sebrae.png" height="40" alt="SEBRAE Minas" />
-
-**SEBRAE Minas** · Estagiário
-*11/2024 – 10/2026*
 
 - Consulta, extração, tratamento e análise de dados no **Salesforce**.
 - Relatórios gerenciais e acompanhamento de indicadores para apoio à tomada de decisão.
@@ -99,12 +93,11 @@ Universidade Federal dos Vales do Jequitinhonha e Mucuri (UFVJM)
 </td>
 <td width="50%" valign="top">
 
-<img src="assets/ufvjm.png" height="40" alt="UFVJM" />
 
-**UFVJM** · Monitor de Lógica Computacional e Matemática Discreta
-*03/2024 – 11/2024*
+<img src="assets/ufvjm.png" height="40" align="left" alt="UFVJM" /> <b>**UFVJM** · Monitor de Lógica Computacional e Matemática Discreta · </b>*03/2024 – 11/2024*</i>
 
 - Apoio a estudantes em lógica proposicional, conjuntos, análise combinatória e grafos.
+- Organização e condução de sessões de estudo em grupo, promovendo a aprendizagem e a troca de conhecimentos.
 - Desenvolvimento de didática e raciocínio analítico ao explicar conteúdos complexos de forma acessível.
 
 </td>
