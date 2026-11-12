@@ -12,7 +12,7 @@
 </tr>
 
 <br>
-<a href="https://www.linkedin.com/in/gbmoraes"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/gbmoraes"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxjaXJjbGUgY3g9IjUiIGN5PSI1IiByPSIyLjMiLz48cmVjdCB4PSIyLjgiIHk9IjkiIHdpZHRoPSI0LjQiIGhlaWdodD0iMTIiLz48cGF0aCBkPSJNMTAgOWg0LjJ2MS44Yy42LTEuMiAyLjEtMi4xIDQtMi4xIDMuNSAwIDQuMyAyLjMgNC4zIDUuNFYyMWgtNC40di02LjJjMC0xLjUtLjMtMi41LTEuOS0yLjVTMTQuNCAxMy40IDE0LjQgMTQuOFYyMUgxMHoiLz48L3N2Zz4%3D" alt="LinkedIn"></a>
 <a href="mailto:gabrieldejesusmoraes@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 
 <table width="100%">
@@ -35,11 +35,10 @@ Graduando em **Sistemas de Informação pela UFVJM** (8º período, conclusão e
 ### 🛠️ Tecnologias
 
 <img src="https://skillicons.dev/icons?i=java,spring,cpp,python,mysql,postgres,mongodb,git,github&theme=dark" alt="Java, Spring Boot, C++, Python, MySQL, PostgreSQL, MongoDB, Git e GitHub" /> 
-
 <p> 
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"> 
-<img src="https://img.shields.io/badge/SALESFORCE-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce"> 
-<img src="https://img.shields.io/badge/PACOTE%20OFFICE-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Pacote Office"> 
+<img src="https://img.shields.io/badge/SALESFORCE-00A1E0?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik02LjUgMTlhNC41IDQuNSAwIDAgMS0uOS04LjkgNiA2IDAgMCAxIDExLjYtMS4yIDQuOCA0LjggMCAwIDEgLjggMTAuMXoiLz48L3N2Zz4%3D" alt="Salesforce"> 
+<img src="https://img.shields.io/badge/PACOTE%20OFFICE-D83B01?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik02IDJoOWw1IDV2MTVINnoiLz48L3N2Zz4%3D" alt="Pacote Office"> 
 </p>
 
 ### 🎓 Formação Acadêmica
@@ -58,26 +57,15 @@ Graduando em **Sistemas de Informação pela UFVJM** (8º período, conclusão e
 </tr>
 </table>
 
----
+<br>
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gbmoraes7&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&custom_title=Estat%C3%ADsticas%20do%20Gabriel" alt="Estatisticas do GitHub" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbmoraes7&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&custom_title=Linguagens%20mais%20usadas" alt="Linguagens mais usadas" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gbmoraes7&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" alt="Grafico de atividade" />
-</p>
-
----
-
-## 💼 Experiência
+## 💼 Experiência Profissional
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
+
+<br>
   
 <img src="assets/sebrae.png" height="50" align="left" alt="SEBRAE Minas" /> <b>**SEBRAE Minas** · Estagiário</b><br>*11/2024 – 10/2026*</i>
 
@@ -86,26 +74,26 @@ Graduando em **Sistemas de Informação pela UFVJM** (8º período, conclusão e
 - Relatórios gerenciais e acompanhamento de indicadores para apoio à tomada de decisão.
 - Suporte técnico e funcional aos usuários de sistemas corporativos.
 - Organização de dados em planilhas, contribuindo para a confiabilidade das informações.
-
+<br>
 </td>
 <td width="50%" valign="top">
 
+<br>
 
-<img src="assets/ufvjm.png" height="40" align="left" alt="UFVJM" /> <b>**UFVJM** · Monitor de Lógica Computacional e Matemática Discreta · </b>*03/2024 – 11/2024*</i>
+<img src="assets/ufvjm.png" height="40" align="left" alt="UFVJM" /> <b>**UFVJM** · Monitor de Lógica Computacional e Matemática Discreta · </b>*03/2024 – 10/2024*</i>
 
 - Apoio a estudantes em lógica proposicional, conjuntos, análise combinatória e grafos.
 - Organização e condução de sessões de estudo em grupo, promovendo a aprendizagem e a troca de conhecimentos.
 - Desenvolvimento de didática e raciocínio analítico ao explicar conteúdos complexos de forma acessível.
+- Elaboração e resolução orientada de exercícios práticos, reforçando a compreensão dos conteúdos e a aplicação dos conceitos estudados.
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
 ## 🚀 Projetos em destaque
-
-> ✏️ **Edite com seus projetos reais.** Copie a linha-modelo para cada um.
 
 <table width="100%">
   <thead>
@@ -117,19 +105,9 @@ Graduando em **Sistemas de Informação pela UFVJM** (8º período, conclusão e
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/gbmoraes7/REPOSITORIO"><b>Nome do projeto 1</b></a></td>
-      <td>Uma frase: o que faz e qual problema resolve.</td>
-      <td><code>Java</code> <code>Spring Boot</code> <code>MySQL</code></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/gbmoraes7/REPOSITORIO"><b>Nome do projeto 2</b></a></td>
-      <td>Uma frase: o que faz e qual problema resolve.</td>
-      <td><code>Python</code> <code>PostgreSQL</code></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/gbmoraes7/REPOSITORIO"><b>Nome do projeto 3</b></a></td>
-      <td>Uma frase: o que faz e qual problema resolve.</td>
-      <td><code>C++</code></td>
+      <td><a href="https://github.com/gbmoraes7/Sistema-de-Gerenciamento-de-Barbearia"><b>Sistema de Gerenciamento de Barbearia</b></a></td>
+      <td>Sistema de gestão de agendamentos, cadastro de clientes e funcionários, vendas de mercadorias e geração de relatórios financeiros.</td>
+      <td><code>Java</code> <code>Programação Orientada à Objeto</code> <code>Design Patterns</code></td>
     </tr>
   </tbody>
 </table>
