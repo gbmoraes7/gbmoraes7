@@ -34,26 +34,23 @@ Graduando em **Sistemas de Informação pela UFVJM** (8º período, conclusão e
 
 ### 🛠️ Tecnologias
 
-<img src="https://skillicons.dev/icons?i=java,spring,cpp,python,mysql,postgres,mongodb,git,github&theme=dark" alt="Java, Spring Boot, C++, Python, MySQL, PostgreSQL, MongoDB, Git e GitHub" />
+<img src="https://skillicons.dev/icons?i=java,spring,cpp,python,mysql,postgres,mongodb,git,github&theme=dark" alt="Java, Spring Boot, C++, Python, MySQL, PostgreSQL, MongoDB, Git e GitHub" /> 
 
-<p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/SALESFORCE-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce">
-  <img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
-  <img src="https://img.shields.io/badge/WORD-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Word">
-  <img src="https://img.shields.io/badge/POWERPOINT-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="PowerPoint">
+<p> 
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"> 
+<img src="https://img.shields.io/badge/SALESFORCE-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce"> 
+<img src="https://img.shields.io/badge/PACOTE%20OFFICE-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Pacote Office"> 
 </p>
 
 ### 🎓 Formação Acadêmica
 
-<img src="assets/ufvjm.png" height="64" align="left" alt="UFVJM" /> <b>Bacharelado em Sistemas de Informação</b><br> Universidade Federal dos Vales do Jequitinhonha e Mucuri (UFVJM) · 2023 – 2027 · 8º período</i> <hr>
+<img src="assets/ufvjm.png" height="64" align="left" alt="UFVJM" /> <b>Bacharelado em Sistemas de Informação</b><br> Universidade Federal dos Vales do Jequitinhonha e Mucuri (UFVJM) · 2023 – 2027</i> <hr>
 
 
 ### 📜 Certificações e cursos
 
 - Java Completo: Programação Orientada a Objetos (54h)
-- Excel Intermediário (15h)
-- Word Intermediário (15h)
+- Pacote Office (30h)
 - Informática e Internet (15h)
 - Segurança da Informação (10h)
 
