@@ -1,40 +1,39 @@
-<table>
+
 <tr>
-<td valign="top">
+<td valign="middle">
+<h1>Olá, eu sou Gabriel Moraes!👋</h1>
+</td>
+<td valign="middle">
+&nbsp;Estudante de Sistemas de Informação<br>
+&nbsp;Back-end · Análise de Dados<br>
+&nbsp;Diamantina, Minas Gerais, Brasil<br>
+  
+</td>
+</tr>
 
-<h1>Olá! Eu sou o Gabriel Moraes 👋</h1>
+<br>
+<a href="https://www.linkedin.com/in/gbmoraes"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:gabrieldejesusmoraes@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 
-**Estudante de Sistemas de Informação · Back-end · Dados**
-📍 Diamantina, Minas Gerais, Brasil
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🧑‍💻 Sobre mim
 
 Graduando em **Sistemas de Informação pela UFVJM** (8º período, conclusão em 2027), com foco em **desenvolvimento back-end**, análise de dados e construção de soluções de software.
 
-- ⚙️ Experiência acadêmica na construção de soluções back-end: funcionalidades, integração com bancos de dados e persistência de informações.
+- ⚙️ Experiência acadêmica em soluções back-end: funcionalidades, integração com bancos de dados e persistência de informações.
 - 📊 Experiência profissional com **sistemas corporativos**, tratamento de dados, relatórios e indicadores.
 - 🌱 Aprofundando back-end e, aos poucos, aprendendo **front-end**.
 - 🤖 Uso **inteligência artificial como ferramenta de apoio** ao desenvolvimento, de forma crítica: para estudar, revisar ideias e depurar código, sempre entendendo e validando o que é produzido.
 
 </td>
-<td valign="top" align="center" width="220">
+<td width="50%" valign="top">
 
-<img src="https://github.com/USUARIO.png" width="180" style="border-radius:50%" alt="Foto de perfil do Gabriel" />
+### 🛠️ Tecnologias
 
-</td>
-</tr>
-</table>
-
-<p>
-  <a href="https://www.linkedin.com/in/gbmoraes"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:gabrieldejesusmoraes@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-</p>
-
----
-
-## 🛠️ Tecnologias
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,mysql,postgres,mongodb,git,github&theme=dark" alt="Java, C++, Python, MySQL, PostgreSQL, MongoDB, Git e GitHub" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,spring,cpp,python,mysql,postgres,mongodb,git,github&theme=dark" alt="Java, Spring Boot, C++, Python, MySQL, PostgreSQL, MongoDB, Git e GitHub" />
 
 <p>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL">
@@ -44,18 +43,73 @@ Graduando em **Sistemas de Informação pela UFVJM** (8º período, conclusão e
   <img src="https://img.shields.io/badge/POWERPOINT-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="PowerPoint">
 </p>
 
+### 🎓 Formação e certificações
+
+<img src="assets/ufvjm.png" height="48" alt="UFVJM" />
+
+**Bacharelado em Sistemas de Informação**
+Universidade Federal dos Vales do Jequitinhonha e Mucuri (UFVJM)
+*2023 – 2027 · 8º período*
+
+<hr>
+
+**📜 Certificações e cursos**
+
+- Java Completo: Programação Orientada a Objetos (54h)
+- Excel Intermediário (15h)
+- Word Intermediário (15h)
+- Informática e Internet (15h)
+- Segurança da Informação (10h)
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 📈 GitHub Stats
 
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=USUARIO&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&custom_title=Estat%C3%ADsticas%20do%20Gabriel" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USUARIO&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&custom_title=Linguagens%20mais%20usadas" alt="Linguagens mais usadas" />
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gbmoraes7&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&custom_title=Estat%C3%ADsticas%20do%20Gabriel" alt="Estatisticas do GitHub" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbmoraes7&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&custom_title=Linguagens%20mais%20usadas" alt="Linguagens mais usadas" />
 </p>
 
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USUARIO&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" alt="Gráfico de atividade" />
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gbmoraes7&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" alt="Grafico de atividade" />
 </p>
+
+---
+
+## 💼 Experiência
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<img src="assets/sebrae.png" height="40" alt="SEBRAE Minas" />
+
+**SEBRAE Minas** · Estagiário
+*11/2024 – 10/2026*
+
+- Consulta, extração, tratamento e análise de dados no **Salesforce**.
+- Relatórios gerenciais e acompanhamento de indicadores para apoio à tomada de decisão.
+- Suporte técnico e funcional aos usuários de sistemas corporativos.
+- Organização de dados em planilhas, contribuindo para a confiabilidade das informações.
+
+</td>
+<td width="50%" valign="top">
+
+<img src="assets/ufvjm.png" height="40" alt="UFVJM" />
+
+**UFVJM** · Monitor de Lógica Computacional e Matemática Discreta
+*03/2024 – 11/2024*
+
+- Apoio a estudantes em lógica proposicional, conjuntos, análise combinatória e grafos.
+- Desenvolvimento de didática e raciocínio analítico ao explicar conteúdos complexos de forma acessível.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -63,37 +117,35 @@ Graduando em **Sistemas de Informação pela UFVJM** (8º período, conclusão e
 
 > ✏️ **Edite com seus projetos reais.** Copie a linha-modelo para cada um.
 
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| [**Nome do projeto 1**](https://github.com/USUARIO/REPOSITORIO) | Uma frase: o que faz e qual problema resolve. | `Java` `MySQL` |
-| [**Nome do projeto 2**](https://github.com/USUARIO/REPOSITORIO) | Uma frase: o que faz e qual problema resolve. | `Python` `PostgreSQL` |
-| [**Nome do projeto 3**](https://github.com/USUARIO/REPOSITORIO) | Uma frase: o que faz e qual problema resolve. | `C++` |
-
----
-
-## 💼 Experiência
-
-**SEBRAE Minas** · Estagiário · 11/2024 – 10/2026
-- Consulta, extração, tratamento e análise de dados no **Salesforce**.
-- Relatórios gerenciais e acompanhamento de indicadores para apoio à tomada de decisão.
-- Suporte técnico e funcional aos usuários de sistemas corporativos.
-- Organização de dados em planilhas, contribuindo para a confiabilidade das informações.
-
-**UFVJM** · Monitor de Lógica Computacional e Matemática Discreta · 03/2024 – 11/2024
-- Apoio a estudantes em lógica proposicional, conjuntos, análise combinatória e grafos.
-- Desenvolvimento de didática e raciocínio analítico ao explicar conteúdos complexos.
-
----
-
-## 🎓 Formação e cursos
-
-- **Bacharelado em Sistemas de Informação** · UFVJM · 2023 – 2027
-- Java Completo: Programação Orientada a Objetos (54h)
-- Excel Intermediário (15h) · Word Intermediário (15h)
-- Informática e Internet (15h) · Segurança da Informação (10h)
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="25%">Projeto</th>
+      <th width="50%">Descrição</th>
+      <th width="25%">Tecnologias</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/gbmoraes7/REPOSITORIO"><b>Nome do projeto 1</b></a></td>
+      <td>Uma frase: o que faz e qual problema resolve.</td>
+      <td><code>Java</code> <code>Spring Boot</code> <code>MySQL</code></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/gbmoraes7/REPOSITORIO"><b>Nome do projeto 2</b></a></td>
+      <td>Uma frase: o que faz e qual problema resolve.</td>
+      <td><code>Python</code> <code>PostgreSQL</code></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/gbmoraes7/REPOSITORIO"><b>Nome do projeto 3</b></a></td>
+      <td>Uma frase: o que faz e qual problema resolve.</td>
+      <td><code>C++</code></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
 <p align="center">
-  💬 Aberto a oportunidades de estágio e desenvolvimento, principalmente em <b>back-end</b>.
+  💬 Aberto a oportunidades de estágio e desenvolvimento, principalmente em <b>back-end</b> e <b>análise de dados</b>.
 </p>
