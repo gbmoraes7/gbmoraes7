@@ -111,9 +111,3 @@ Graduando em **Sistemas de Informação pela UFVJM** (8º período, conclusão e
     </tr>
   </tbody>
 </table>
-
----
-
-<p align="center">
-  💬 Aberto a oportunidades de estágio e desenvolvimento, principalmente em <b>back-end</b> e <b>análise de dados</b>.
-</p>
