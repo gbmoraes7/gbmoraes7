@@ -53,41 +53,6 @@
 </tr>
 </table>
 
-<br>
-
-## 💼 Experiência Profissional
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-<br>
-  
-<img src="assets/sebrae.png" height="50" align="left" alt="SEBRAE Minas" /> <b>**SEBRAE Minas** · Estagiário</b><br>*11/2024 – 10/2026*</i>
-
-
-- Consulta, extração, tratamento e análise de dados no **Salesforce**.
-- Relatórios gerenciais e acompanhamento de indicadores para apoio à tomada de decisão.
-- Suporte técnico e funcional aos usuários de sistemas corporativos.
-- Organização de dados em planilhas, contribuindo para a confiabilidade das informações.
-<br>
-</td>
-<td width="50%" valign="top">
-
-<br>
-
-<img src="assets/ufvjm.png" height="40" align="left" alt="UFVJM" /> <b>**UFVJM** · Monitor de Lógica Computacional e Matemática Discreta · </b>*03/2024 – 10/2024*</i>
-
-- Apoio a estudantes em lógica proposicional, conjuntos, análise combinatória e grafos.
-- Organização e condução de sessões de estudo em grupo, promovendo a aprendizagem e a troca de conhecimentos.
-- Desenvolvimento de didática e raciocínio analítico ao explicar conteúdos complexos de forma acessível.
-- Elaboração e resolução orientada de exercícios práticos, reforçando a compreensão dos conteúdos e a aplicação dos conceitos estudados.
-
-</td>
-</tr>
-</table>
-
-<br>
 
 ## 🚀 Projetos em destaque
 
