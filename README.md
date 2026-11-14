@@ -17,7 +17,7 @@
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
 ### 🧑‍💻 Sobre mim
 
@@ -30,7 +30,7 @@
 
 
 </td>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
 ### 🛠️ Tecnologias
 
@@ -42,7 +42,7 @@
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="64" height="64" alt="MySQL" />
 <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="64" height="64" alt="PostgreSQL" />
 
-#### Ferramentas e Frameworks
+#### Frameworks e Ferramentas
 <img src="https://skillicons.dev/icons?i=spring&theme=dark" width="64" height="64" alt="Spring Boot" />
 <img src="https://skillicons.dev/icons?i=git&theme=dark" width="64" height="64" alt="Git" />
 <img src="https://skillicons.dev/icons?i=github&theme=dark" width="64" height="64" alt="GitHub" />
