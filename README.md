@@ -4,10 +4,10 @@
 <h1>Olá, eu sou Gabriel Moraes!👋</h1>
 </td>
 <td valign="middle">
-&nbsp;Estudante de Sistemas de Informação<br>
-&nbsp;Back-end · Análise de Dados<br>
-&nbsp;Diamantina, Minas Gerais, Brasil<br>
-  
+&nbsp;· Estudante de Sistemas de Informação na UFVJM (conclusão em 2027);<br>
+&nbsp;· Gosto de ajudar pessoas a resolverem problemas com tecnologia;<br>
+&nbsp;· Construindo minha base em desenvolvimento, dados e sistemas corporativos.<br>
+&nbsp;· Diamantina, Minas Gerais, Brasil<br>
 </td>
 </tr>
 
@@ -21,37 +21,33 @@
 
 ### 🧑‍💻 Sobre mim
 
-Graduando em **Sistemas de Informação pela UFVJM** (8º período, conclusão em 2027), com foco em **desenvolvimento back-end**, análise de dados e construção de soluções de software.
-
-- ⚙️ Experiência acadêmica em soluções back-end: funcionalidades, integração com bancos de dados e persistência de informações.
-- 📊 Experiência profissional com **sistemas corporativos**, tratamento de dados, relatórios e indicadores.
-- 🛟 Experiência em **suporte técnico** ao usuário: orientação e resolução de dúvidas e problemas operacionais em sistemas corporativos.
-- 🌱 Aprofundando back-end e, aos poucos, aprendendo **front-end**.
-- 🤖 Uso **inteligência artificial como ferramenta de apoio** ao desenvolvimento, de forma crítica: para estudar, revisar ideias e depurar código, sempre entendendo e validando o que é produzido.
+- 🤝 Dois anos de estágio no Sebrae Minas, com foco no atendimento aos empreendedores e suporte técnico a usuários na utilização de sistemas corporativos.
+- 📊 Extração, tratamento e análise de dados no Salesforce, com relatórios e indicadores.
+- ☕ Estudando e praticando desenvolvimento com Java e bancos de dados.
+- 🌱 Estudando front-end.
+- 🤖 Uso IA como apoio para estudar e depurar, sempre entendendo e validando o que é produzido.
 
 </td>
 <td width="50%" valign="top">
 
 ### 🛠️ Tecnologias
 
-<img src="https://skillicons.dev/icons?i=java,spring,cpp,python,mysql,postgres,mongodb,git,github&theme=dark" alt="Java, Spring Boot, C++, Python, MySQL, PostgreSQL, MongoDB, Git e GitHub" /> 
-<p> 
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"> 
-<img src="https://img.shields.io/badge/SALESFORCE-00A1E0?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik02LjUgMTlhNC41IDQuNSAwIDAgMS0uOS04LjkgNiA2IDAgMCAxIDExLjYtMS4yIDQuOCA0LjggMCAwIDEgLjggMTAuMXoiLz48L3N2Zz4%3D" alt="Salesforce"> 
-<img src="https://img.shields.io/badge/PACOTE%20OFFICE-D83B01?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik02IDJoOWw1IDV2MTVINnoiLz48L3N2Zz4%3D" alt="Pacote Office"> 
+#### Linguagens
+<img src="https://skillicons.dev/icons?i=java,cpp,python&theme=dark" height="64" alt="Java, C++ e Python" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" height="40" alt="SQL">
+
+#### Frameworks
+<img src="https://skillicons.dev/icons?i=spring&theme=dark" height="64" alt="Spring Boot" />
+
+#### Bancos de dados
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" height="64" alt="MySQL, PostgreSQL e MongoDB" />
+
+#### Ferramentas
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark" height="64" alt="Git e GitHub" />
+<p>
+<img src="https://img.shields.io/badge/SALESFORCE-00A1E0?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik02LjUgMTlhNC41IDQuNSAwIDAgMS0uOS04LjkgNiA2IDAgMCAxIDExLjYtMS4yIDQuOCA0LjggMCAwIDEgLjggMTAuMXoiLz48L3N2Zz4%3D" height="40" alt="Salesforce">
+<img src="https://img.shields.io/badge/PACOTE%20OFFICE-D83B01?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik02IDJoOWw1IDV2MTVINnoiLz48L3N2Zz4%3D" height="40" alt="Pacote Office">
 </p>
-
-### 🎓 Formação Acadêmica
-
-<img src="assets/ufvjm.png" height="64" align="left" alt="UFVJM" /> <b>Bacharelado em Sistemas de Informação</b><br> Universidade Federal dos Vales do Jequitinhonha e Mucuri (UFVJM) · 2023 – 2027</i> <hr>
-
-
-### 📜 Certificações e cursos
-
-- Java Completo: Programação Orientada a Objetos (54h)
-- Pacote Office (30h)
-- Informática e Internet (15h)
-- Segurança da Informação (10h)
 
 </td>
 </tr>
