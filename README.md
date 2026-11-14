@@ -1,4 +1,4 @@
-
+<img width="501" height="637" alt="image" src="https://github.com/user-attachments/assets/68b2fef6-0d9f-4d6c-8ccf-c03512046f33" />
 <tr>
 <td valign="middle">
 <h1>Olá, eu sou Gabriel Moraes!👋</h1>
@@ -34,20 +34,18 @@
 
 #### Linguagens
 <img src="https://skillicons.dev/icons?i=java,cpp,python&theme=dark" height="64" alt="Java, C++ e Python" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" height="40" alt="SQL">
+<img src="assets/sql.svg" height="64" alt="SQL" />
 
 #### Frameworks
 <img src="https://skillicons.dev/icons?i=spring&theme=dark" height="64" alt="Spring Boot" />
 
 #### Bancos de dados
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" height="64" alt="MySQL, PostgreSQL e MongoDB" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" height="64" alt="MySQL e PostgreSQL" />
 
 #### Ferramentas
 <img src="https://skillicons.dev/icons?i=git,github&theme=dark" height="64" alt="Git e GitHub" />
-<p>
-<img src="https://img.shields.io/badge/SALESFORCE-00A1E0?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik02LjUgMTlhNC41IDQuNSAwIDAgMS0uOS04LjkgNiA2IDAgMCAxIDExLjYtMS4yIDQuOCA0LjggMCAwIDEgLjggMTAuMXoiLz48L3N2Zz4%3D" height="40" alt="Salesforce">
-<img src="https://img.shields.io/badge/PACOTE%20OFFICE-D83B01?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik02IDJoOWw1IDV2MTVINnoiLz48L3N2Zz4%3D" height="40" alt="Pacote Office">
-</p>
+<img src="assets/salesforce.svg" height="64" alt="Salesforce" />
+<img src="assets/office.svg" height="64" alt="Pacote Office" />
 
 </td>
 </tr>
