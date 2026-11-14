@@ -3,6 +3,10 @@
 <td valign="middle">
 <h1>Olá, eu sou Gabriel Moraes!👋</h1>
 </td>
+
+<a href="mailto:gabrieldejesusmoraes@gmail.com"><img align="right" src="https://skillicons.dev/icons?i=gmail&theme=dark" width="72" height="72" alt="Gmail" /></a>
+<a href="https://www.linkedin.com/in/gbmoraes"><img align="right" src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="72" height="72" alt="LinkedIn" /></a>
+
 <td valign="middle">
 &nbsp;· Estudante de Sistemas de Informação na UFVJM (conclusão em 2027);<br>
 &nbsp;· Gosto de ajudar pessoas a resolverem problemas com tecnologia;<br>
@@ -11,9 +15,8 @@
 </td>
 </tr>
 
+
 <br>
-<a href="https://www.linkedin.com/in/gbmoraes"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxjaXJjbGUgY3g9IjUiIGN5PSI1IiByPSIyLjMiLz48cmVjdCB4PSIyLjgiIHk9IjkiIHdpZHRoPSI0LjQiIGhlaWdodD0iMTIiLz48cGF0aCBkPSJNMTAgOWg0LjJ2MS44Yy42LTEuMiAyLjEtMi4xIDQtMi4xIDMuNSAwIDQuMyAyLjMgNC4zIDUuNFYyMWgtNC40di02LjJjMC0xLjUtLjMtMi41LTEuOS0yLjVTMTQuNCAxMy40IDE0LjQgMTQuOFYyMUgxMHoiLz48L3N2Zz4%3D" alt="LinkedIn"></a>
-<a href="mailto:gabrieldejesusmoraes@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 
 <table width="100%">
 <tr>
