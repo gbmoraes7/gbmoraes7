@@ -1,4 +1,4 @@
-<img width="501" height="637" alt="image" src="https://github.com/user-attachments/assets/68b2fef6-0d9f-4d6c-8ccf-c03512046f33" />
+
 <tr>
 <td valign="middle">
 <h1>Olá, eu sou Gabriel Moraes!👋</h1>
@@ -33,19 +33,23 @@
 ### 🛠️ Tecnologias
 
 #### Linguagens
-<img src="https://skillicons.dev/icons?i=java,cpp,python&theme=dark" height="64" alt="Java, C++ e Python" />
-<img src="assets/sql.svg" height="64" alt="SQL" />
+<img src="https://skillicons.dev/icons?i=java&theme=dark" width="64" height="64" alt="Java" />
+<img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="64" height="64" alt="C++" />
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="64" height="64" alt="Python" />
+<img src="assets/sql.svg" width="64" height="64" alt="SQL" />
 
 #### Frameworks
-<img src="https://skillicons.dev/icons?i=spring&theme=dark" height="64" alt="Spring Boot" />
+<img src="https://skillicons.dev/icons?i=spring&theme=dark" width="64" height="64" alt="Spring Boot" />
 
 #### Bancos de dados
-<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" height="64" alt="MySQL e PostgreSQL" />
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="64" height="64" alt="MySQL" />
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="64" height="64" alt="PostgreSQL" />
 
 #### Ferramentas
-<img src="https://skillicons.dev/icons?i=git,github&theme=dark" height="64" alt="Git e GitHub" />
-<img src="assets/salesforce.svg" height="64" alt="Salesforce" />
-<img src="assets/office.svg" height="64" alt="Pacote Office" />
+<img src="https://skillicons.dev/icons?i=git&theme=dark" width="64" height="64" alt="Git" />
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="64" height="64" alt="GitHub" />
+<img src="assets/salesforce.svg" width="64" height="64" alt="Salesforce" />
+<img src="assets/office.svg" width="64" height="64" alt="Pacote Office" />
 
 </td>
 </tr>
