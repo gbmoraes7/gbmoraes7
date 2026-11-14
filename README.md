@@ -26,26 +26,24 @@
 - ☕ Estudando e praticando desenvolvimento com Java e bancos de dados.
 - 🌱 Estudando front-end.
 - 🤖 Uso IA como apoio para estudar e depurar, sempre entendendo e validando o que é produzido.
+<br>
+
 
 </td>
 <td width="50%" valign="top">
 
 ### 🛠️ Tecnologias
 
-#### Linguagens
+#### Linguagens e Bancos de dados
 <img src="https://skillicons.dev/icons?i=java&theme=dark" width="64" height="64" alt="Java" />
 <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="64" height="64" alt="C++" />
 <img src="https://skillicons.dev/icons?i=python&theme=dark" width="64" height="64" alt="Python" />
 <img src="assets/sql.svg" width="64" height="64" alt="SQL" />
-
-#### Frameworks
-<img src="https://skillicons.dev/icons?i=spring&theme=dark" width="64" height="64" alt="Spring Boot" />
-
-#### Bancos de dados
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="64" height="64" alt="MySQL" />
 <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="64" height="64" alt="PostgreSQL" />
 
-#### Ferramentas
+#### Ferramentas e Frameworks
+<img src="https://skillicons.dev/icons?i=spring&theme=dark" width="64" height="64" alt="Spring Boot" />
 <img src="https://skillicons.dev/icons?i=git&theme=dark" width="64" height="64" alt="Git" />
 <img src="https://skillicons.dev/icons?i=github&theme=dark" width="64" height="64" alt="GitHub" />
 <img src="assets/salesforce.svg" width="64" height="64" alt="Salesforce" />
