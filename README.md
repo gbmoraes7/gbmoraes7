@@ -20,7 +20,7 @@
 
 <table width="100%">
 <tr>
-<td width="45%" valign="top">
+<td width="47%" valign="top">
 
 ### 🧑‍💻 Sobre mim
 
@@ -33,7 +33,7 @@
 
 
 </td>
-<td width="55%" valign="top">
+<td width="53%" valign="top">
 
 ### 🛠️ Tecnologias
 
