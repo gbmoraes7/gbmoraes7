@@ -2,7 +2,7 @@
 <tr>
 <td valign="middle">
 <h1>Olá, eu sou Gabriel Moraes!👋</h1>
-</td>
+</td> 
 
 <a href="mailto:gabrieldejesusmoraes@gmail.com"><img align="right" src="https://skillicons.dev/icons?i=gmail&theme=dark" width="72" height="72" alt="Gmail" /></a>
 <a href="https://www.linkedin.com/in/gbmoraes"><img align="right" src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="72" height="72" alt="LinkedIn" /></a>
