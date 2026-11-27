@@ -21,7 +21,7 @@
 <table width="100%">
 <tr>
 <td width="49%" valign="top">
-
+ 
 ### 🧑‍💻 Sobre mim
 
 - 🤝 Dois anos de estágio no Sebrae Minas, com foco no atendimento aos empreendedores e suporte técnico a usuários na utilização de sistemas corporativos.
